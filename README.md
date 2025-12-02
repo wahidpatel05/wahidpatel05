@@ -5,9 +5,12 @@
 
 <br/>
 
+<h2 align="center">⚡ Signature Quote</h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wahidpatel05&label=Profile%20Views&color=gold&style=flat-square" alt="views"/>
+  <i>“Loyalty is a two-way street.”</i>
 </p>
+
 
 ---
 
@@ -47,13 +50,13 @@ I’m an IT student and frontend developer passionate about building high-qualit
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wahidpatel05&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=FFD700" height="170"/>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidpatel05&layout=compact&theme=tokyonight&hide_border=true&title_color=FFD700" height="150"/>
-</p>
+</p> -->
 
 ---
 
@@ -64,8 +67,7 @@ I’m an IT student and frontend developer passionate about building high-qualit
 
 ---
 
-## ⚡ Fun Fact  
-> *“The future belongs to those who merge creativity with technology.”*
+
 
 ---
 
