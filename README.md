@@ -17,7 +17,8 @@
 ## 🧑‍💻 About Me  
 I’m an IT student and frontend developer passionate about building high-quality digital experiences and exploring cutting-edge technologies in AI.
 
-- 🔭 Currently building: **MZ Aromas – A premium e-commerce platform**  
+- 🔭 Currently building: <a href="https://mzaromas.com" target="_blank"><b>MZ Aromas – A premium e-commerce platform</b></a>
+ 
 - 🤖 Learning: **Generative AI, Agentic AI & Retrieval-Augmented Generation (RAG)**  
 - 🧠 Skilled in: **React, Node, Python, JavaScript, Tailwind**  
 - 🚀 Exploring: **AI Engineering + Modern Frontend Architectures**  
