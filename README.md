@@ -72,6 +72,6 @@ I’m an IT student and frontend developer passionate about building high-qualit
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider starring a repo — it motivates me!
+  ⭐ If you like my work, consider starring a repo it motivates me!
 </p>
 
