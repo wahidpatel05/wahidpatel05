@@ -22,7 +22,8 @@ I’m an IT student and frontend developer passionate about building high-qualit
 - 🤖 Learning: **Generative AI, Agentic AI & Retrieval-Augmented Generation (RAG)**  
 - 🧠 Skilled in: **React, Node, Python, JavaScript, Tailwind**  
 - 🚀 Exploring: **AI Engineering + Modern Frontend Architectures**  
-- 🎯 Portfolio: **https://portfolio-rouge-two-21dnz5r6l6.vercel.app**
+- 🎯 Portfolio: - <a href="[https://mzaromas.com](https://portfolio-rouge-two-21dnz5r6l6.vercel.app/#home)" target="_blank"><b>Wahid Patel</b></a>
+
 
 ---
 
