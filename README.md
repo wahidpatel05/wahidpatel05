@@ -2,6 +2,7 @@
 
 <h1 align="center">✨ Wahid Shabbir Patel</h1>
 <h3 align="center">Frontend Developer • AI Learner • IT Student (2027)</h3>
+<h3 align="center">SIH 2025 Finalist</h3>
 
 <br/>
 
