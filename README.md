@@ -4,7 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Wahid%20Shabbir%20Patel&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=32&desc=Crafting%20Digital%20Experiences%20•%20Building%20The%20Future&descSize=16&descAlignY=51"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%E2%9A%A1;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;SIH+2025+Finalist+%F0%9F%8F%86;IT+Student+•+Class+of+2027+%F0%9F%8E%93" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Frontend+Developer+%E2%9A%A1%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;SIH+2025+Finalist+%F0%9F%8F%86;IT+Student+%E2%80%A2+Class+of+2027+%F0%9F%8E%93" alt="Typing SVG" />
+</p>
 
 <br/>
 
@@ -88,10 +90,10 @@ const wahid = {
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,c,cpp,fastapi" height="50"/>
 
 ### Database & DevOps
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,firebase,redis" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" height="50"/>
 
 ### Development Environment
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,vscode,vercel" height="50"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,aws,postman,vscode,vercel" height="50"/>
 
 <br/>
 
