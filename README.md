@@ -25,7 +25,7 @@
 
 ```typescript
 const wahid = {
-    role: "Frontend Developer & AI Enthusiast",
+    role: "Full Stack Developer & AI Enthusiast",
     education: "IT Student (Graduating 2027)",
     currentFocus: "Building scalable web applications & exploring AI",
     achievements: ["SIH 2025 Finalist 🏆"],
