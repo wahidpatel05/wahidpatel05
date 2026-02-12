@@ -1,7 +1,12 @@
 <div align="center">
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wahidpatel05&label=Profile%20Views&color=008000&style=for-the-badge" alt="Profile views" />
+</div>
 
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Wahid%20Shabbir%20Patel&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=32&desc=Crafting%20Digital%20Experiences%20•%20Building%20The%20Future&descSize=16&descAlignY=51"/>
+
 
 <!-- Typing Animation -->
 <p align="center">
@@ -169,7 +174,4 @@ Code with ❤️  •  Build with 🎯  •  Learn with 🚀  •  Grow with �
 
 </div>
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wahidpatel05&label=Profile%20Views&color=FFD700&style=for-the-badge" alt="Profile views" />
-</div>
+
