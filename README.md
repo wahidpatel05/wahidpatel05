@@ -1,21 +1,18 @@
 <div align="center">
+
 <!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wahidpatel05&label=Profile%20Views&color=008000&style=for-the-badge" alt="Profile views" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=wahidpatel05&label=Profile%20Views&color=008000&style=for-the-badge" alt="Profile views" />
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Wahid%20Shabbir%20Patel&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=32&desc=Crafting%20Digital%20Experiences%20•%20Building%20The%20Future&descSize=16&descAlignY=51"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Wahid%20Shabbir%20Patel&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=32&desc=RAG%20%26%20Data%20Engineering%20%E2%80%A2%20Building%20Intelligent%20Systems&descSize=16&descAlignY=51"/>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Full+Stack+Developer+%E2%9A%A1%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;SIH+2025+Finalist+%F0%9F%8F%86;IT+Student+%E2%80%A2+Class+of+2027+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=false&width=600&height=60&lines=RAG+Engineer+%E2%9A%A1%EF%B8%8F;Data+Engineer+%F0%9F%94%A7;AI+%26+ML+Enthusiast+%F0%9F%A4%96;SIH+2025+Finalist+%F0%9F%8F%86;IT+Student+%E2%80%A2+Class+of+2027+%F0%9F%8E%93" alt="Typing SVG" />
 </p>
 
 <br/>
 
-<!-- Signature Quote with styling -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ### 💭 *"Loyalty is a two-way street."*
@@ -30,23 +27,24 @@
 
 ```typescript
 const wahid = {
-    role: "Full Stack Developer & AI Enthusiast",
+    role: "RAG & Data Engineer",
     education: "IT Student (Graduating 2027)",
-    currentFocus: "Building scalable web applications & exploring AI",
+    currentFocus: "Retrieval pipelines, data infrastructure & agentic systems",
     achievements: ["SIH 2025 Finalist 🏆"],
-    
-    projects: {
-        featured: "MZ Aromas - Premium E-commerce Platform",
-        url: "https://mzaromas.com"
+
+    building: {
+        erp: "MZ Aromas ERP — inventory, orders & ops in one system",
+        sih: "AI-Enabled Skill Intelligence & Learning Platform",
+        commerce: ["mzaromas.com", "thefabulousscents.com"]
     },
-    
+
     learning: [
-        "Generative AI & LLMs",
-        "Agentic AI Systems",
-        "Retrieval-Augmented Generation (RAG)",
-        "Advanced React Patterns"
+        "Vector Databases & Hybrid Retrieval",
+        "Agentic AI Systems & Orchestration",
+        "Data Pipelines, ETL & Warehousing",
+        "LLM Evaluation & Observability"
     ],
-    
+
     mantra: "Build with purpose, learn with passion"
 };
 ```
@@ -64,18 +62,18 @@ const wahid = {
 <td width="50%" valign="top">
 
 ### 🔨 Building
-- 🛍️ **MZ Aromas** - Premium e-commerce experience
-- 🎨 Modern UI/UX with React & Tailwind
-- ⚡ Performance-optimized web applications
-- 🔐 Secure & scalable architectures
+- 🏭 **MZ Aromas ERP** — inventory, orders & operations
+- 🧠 **Skill Intelligence Platform** — AI-enabled learning (SIH)
+- 🌸 **The Fabulous Scents** — perfumery brand storefront
+- 🛍️ **MZ Aromas** — premium fragrance e-commerce
 
 </td>
 <td width="50%" valign="top">
 
 ### 📚 Learning
-- 🤖 **Generative AI** & prompt engineering
-- 🧠 **Agentic AI** systems & workflows
-- 📖 **RAG** (Retrieval-Augmented Generation)
+- 📖 **RAG** — chunking, reranking, hybrid search
+- 🗄️ **Data Engineering** — pipelines, ETL, modeling
+- 🤖 **Agentic AI** systems & workflows
 - 🏗️ **System Design** & best practices
 
 </td>
@@ -88,17 +86,20 @@ const wahid = {
 
 ## 💻 Tech Arsenal
 
-### Frontend Mastery
+### AI / ML & Retrieval
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask" height="50"/>
+
+### Data & Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis" height="50"/>
+
+### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vite,redux" height="50"/>
 
-### Backend & Tools
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,c,cpp,fastapi" height="50"/>
+### Backend & Languages
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,c,cpp" height="50"/>
 
-### Database & DevOps
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" height="50"/>
-
-### Development Environment
-<img src="https://skillicons.dev/icons?i=git,github,linux,aws,postman,vscode,vercel" height="50"/>
+### Tools & Infrastructure
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,vscode,vercel" height="50"/>
 
 <br/>
 
@@ -126,6 +127,61 @@ const wahid = {
 
 ---
 
+</div>
+
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏭 MZ Aromas ERP `In Progress`
+End-to-end ERP for a fragrance business — inventory tracking, order lifecycle, procurement and operational reporting in a single system.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Skill Intelligence Platform `In Progress`
+AI-enabled Skill Intelligence and Learning Platform built for **Smart India Hackathon** — skill mapping, gap analysis and personalised learning paths.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FFD700?style=flat&logoColor=0D1117)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌸 [The Fabulous Scents](https://thefabulousscents.com) `Live`
+Storefront for a perfumery brand — curated catalogue, brand-led design and a conversion-focused buying flow.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ [MZ Aromas](https://mzaromas.com) `Live`
+Premium e-commerce platform for luxury fragrances — responsive design, secure payments, admin dashboard and product management.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
 ## 🔗 Let's Connect
 
 <a href="https://linkedin.com/in/wahidpatel" target="_blank">
@@ -143,29 +199,10 @@ const wahid = {
 
 ---
 
-## 💼 Featured Project
-
-<div align="center">
-  
-### 🌟 [MZ Aromas](https://mzaromas.com)
-*Premium E-commerce Platform for Luxury Fragrances*
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-**Features:** Responsive Design • Secure Payments • Admin Dashboard • Product Management
-
-</div>
-
----
-
-<div align="center">
-
 ### 💡 Philosophy
 
 ```
-Code with ❤️  •  Build with 🎯  •  Learn with 🚀  •  Grow with 🌱
+Retrieve with 🎯  •  Engineer with ⚙️  •  Learn with 🚀  •  Grow with 🌱
 ```
 
 ### ⭐ *If my work resonates with you, a star would mean the world!*
@@ -173,5 +210,3 @@ Code with ❤️  •  Build with 🎯  •  Learn with 🚀  •  Grow with �
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer"/>
 
 </div>
-
-
