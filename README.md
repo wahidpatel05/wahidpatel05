@@ -1,82 +1,82 @@
 <div align="center">
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wahidpatel05&label=Profile%20Views&color=008000&style=for-the-badge" alt="Profile views" />
+</div>
 
-<img src="./banner.svg" width="100%" alt="Wahid Shabbir Patel — RAG & Data Engineer"/>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Wahid%20Shabbir%20Patel&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=32&desc=Crafting%20Digital%20Experiences%20•%20Building%20The%20Future&descSize=16&descAlignY=51"/>
+
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Full+Stack+Developer+%E2%9A%A1%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;SIH+2025+Finalist+%F0%9F%8F%86;IT+Student+%E2%80%A2+Class+of+2027+%F0%9F%8E%93" alt="Typing SVG" />
+</p>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=google-chrome&logoColor=FFD700&labelColor=0D1117)](https://wahidpatel.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117)](https://linkedin.com/in/wahidpatel)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117)](https://instagram.com/wahid.patel_)
-[![Gmail](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117)](mailto:patel.wahid2005@gmail.com)
+<!-- Signature Quote with styling -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<br/>
+### 💭 *"Loyalty is a two-way street."*
 
-![](https://img.shields.io/badge/SIH_2025-FINALIST-FFD700?style=flat-square&labelColor=0D1117)
-![](https://img.shields.io/badge/IT_STUDENT-CLASS_OF_2027-4C9AFF?style=flat-square&labelColor=0D1117)
-![](https://img.shields.io/badge/STATUS-BUILDING-2EA043?style=flat-square&labelColor=0D1117)
-![](https://img.shields.io/badge/BASED_IN-INDIA-E8A317?style=flat-square&labelColor=0D1117)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 <br/>
 
-```console
-$ ./whoami --verbose
+## 🌟 About Me
 
-  NAME      Wahid Shabbir Patel
-  ROLE      RAG & Data Engineer
-  FOCUS     Retrieval pipelines · Data infrastructure · Agentic systems
-  SHIPPING  2 storefronts live · 1 ERP · 1 SIH platform
-  MANTRA    "Build with purpose, learn with passion"
-  CREED     "Loyalty is a two-way street."
+```typescript
+const wahid = {
+    role: "Full Stack Developer & AI Enthusiast",
+    education: "IT Student (Graduating 2027)",
+    currentFocus: "Building scalable web applications & exploring AI",
+    achievements: ["SIH 2025 Finalist 🏆"],
+    
+    projects: {
+        featured: "MZ Aromas - Premium E-commerce Platform",
+        url: "https://mzaromas.com"
+    },
+    
+    learning: [
+        "Generative AI & LLMs",
+        "Agentic AI Systems",
+        "Retrieval-Augmented Generation (RAG)",
+        "Advanced React Patterns"
+    ],
+    
+    mantra: "Build with purpose, learn with passion"
+};
 ```
 
 <br/>
 
-## `01` ▸ Currently Shipping
+<div align="center">
 
-<table>
+## 🚀 Current Journey
+
+</div>
+
+<table align="center">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-### ⚙️ MZ Aromas ERP
-![](https://img.shields.io/badge/IN_PROGRESS-F0A500?style=flat-square&labelColor=0D1117)
-
-Taking a growing fragrance business off spreadsheets. Stock movement across variants, purchase orders, and reconciliation between storefront sales and physical inventory.
-
-`React` · `Node.js` · `PostgreSQL`
-
-</td>
-<td width="45%" valign="top">
-
-### 🧠 Skill Intelligence Platform
-![](https://img.shields.io/badge/SIH_2025-FFD700?style=flat-square&labelColor=0D1117)
-
-AI-enabled skill intelligence and learning platform. Maps skills against role requirements and generates personalised learning paths — retrieval-augmented, so output stays grounded in real curriculum.
-
-`Python` · `FastAPI` · `RAG`
+### 🔨 Building
+- 🛍️ **MZ Aromas** - Premium e-commerce experience
+- 🎨 Modern UI/UX with React & Tailwind
+- ⚡ Performance-optimized web applications
+- 🔐 Secure & scalable architectures
 
 </td>
-</tr>
-<tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-### 🌸 [The Fabulous Scents](https://thefabulousscents.com)
-![](https://img.shields.io/badge/LIVE-2EA043?style=flat-square&labelColor=0D1117)
-
-A second perfumery brand, built with everything learned from the first — faster loads, cleaner catalogue structure, fewer checkout drop-offs.
-
-`React` · `Tailwind` · `Node.js`
-
-</td>
-<td valign="top">
-
-### 🛍️ [MZ Aromas](https://mzaromas.com)
-![](https://img.shields.io/badge/LIVE-2EA043?style=flat-square&labelColor=0D1117)
-
-Premium e-commerce for luxury fragrances. Responsive storefront, secure payments, admin dashboard, full product management.
-
-`React` · `Tailwind` · `MongoDB`
+### 📚 Learning
+- 🤖 **Generative AI** & prompt engineering
+- 🧠 **Agentic AI** systems & workflows
+- 📖 **RAG** (Retrieval-Augmented Generation)
+- 🏗️ **System Design** & best practices
 
 </td>
 </tr>
@@ -84,75 +84,94 @@ Premium e-commerce for luxury fragrances. Responsive storefront, secure payments
 
 <br/>
 
-## `02` ▸ The Stack
-
 <div align="center">
 
-**AI / ML & RETRIEVAL**
+## 💻 Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask" height="44"/>
+### Frontend Mastery
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vite,redux" height="50"/>
 
-**DATA & PERSISTENCE**
+### Backend & Tools
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,c,cpp,fastapi" height="50"/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis" height="44"/>
+### Database & DevOps
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" height="50"/>
 
-**INTERFACE**
+### Development Environment
+<img src="https://skillicons.dev/icons?i=git,github,linux,aws,postman,vscode,vercel" height="50"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vite,redux" height="44"/>
+<br/>
 
-**SERVICES & LANGUAGES**
+---
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,c,cpp" height="44"/>
+## 📊 GitHub Analytics
 
-**INFRASTRUCTURE**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wahidpatel05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&ring_color=FFD700" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wahidpatel05&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,vscode,vercel" height="44"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidpatel05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=wahidpatel05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" />
+
+---
+
+## 🏆 Achievements & Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=wahidpatel05&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,MultiLanguage" />
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wahidpatel05&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="100%"/>
+
+---
+
+## 🔗 Let's Connect
+
+<a href="https://linkedin.com/in/wahidpatel" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="35"/>
+</a>
+<a href="https://instagram.com/wahid.patel_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" height="35"/>
+</a>
+<a href="mailto:patel.wahid2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="35"/>
+</a>
+<a href="https://wahidpatel.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=0D1117&labelColor=FFD700" height="35"/>
+</a>
+
+---
+
+## 💼 Featured Project
+
+<div align="center">
+  
+### 🌟 [MZ Aromas](https://mzaromas.com)
+*Premium E-commerce Platform for Luxury Fragrances*
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+**Features:** Responsive Design • Secure Payments • Admin Dashboard • Product Management
 
 </div>
 
-<br/>
-
-## `03` ▸ Learning Queue
-
-```yaml
-retrieval:
-  rag:            ▰▰▰▰▰▰▰▱▱▱   chunking · reranking · hybrid search
-  vector_stores:  ▰▰▰▰▰▰▱▱▱▱   indexing · similarity · filtering
-  evaluation:     ▰▰▰▰▱▱▱▱▱▱   groundedness · relevance · observability
-
-data:
-  pipelines:      ▰▰▰▰▰▰▱▱▱▱   ingestion · transformation · scheduling
-  modeling:       ▰▰▰▰▰▱▱▱▱▱   dimensional design · warehousing
-
-systems:
-  agentic_ai:     ▰▰▰▰▰▰▱▱▱▱   tool use · orchestration · multi-step
-  system_design:  ▰▰▰▰▰▱▱▱▱▱   scalability · trade-offs
-```
-
-<br/>
-
-## `04` ▸ Open To
+---
 
 <div align="center">
 
-| 🤝 Collaboration | 💬 Conversation | 🎯 Looking For |
-| :---: | :---: | :---: |
-| RAG & data-heavy projects | Retrieval architecture, ETL design | Internships in AI / Data Engineering |
+### 💡 Philosophy
+
+```
+Code with ❤️  •  Build with 🎯  •  Learn with 🚀  •  Grow with 🌱
+```
+
+### ⭐ *If my work resonates with you, a star would mean the world!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer"/>
 
 </div>
 
-<br/>
 
-<div align="center">
-
-```
-◆  retrieve with purpose  ◆  engineer with intent  ◆  ship with care  ◆
-```
-
-**⭐ If something here resonates, a star would mean the world.**
-
-<br/>
-
-![](https://img.shields.io/badge/-thanks_for_stopping_by-0D1117?style=for-the-badge&labelColor=0D1117&color=FFD700)
-
-</div>
